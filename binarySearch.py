@@ -14,7 +14,7 @@ class BinarySearch:
 
 
 arr = [10, 20, 30, 40, 50]
-index = BinarySearch.search(arr, 40)
+index = BinarySearch.search(arr, 50)
 if index != -1:
     print(f"Element found at index {index}")
 else:
